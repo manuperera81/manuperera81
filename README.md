@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manuperera81
 - 👀 I’m interested in Learning and experiement new things
 - 🌱 I’m currently learning new Software Test Automation 
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Testers
 - 📫 How to reach me on linkedin 
 
 <!---
