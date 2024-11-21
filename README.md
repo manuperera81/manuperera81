@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manuperera81
-- 👀 I’m interested in Learning and experiement new things
-- 🌱 I’m experienced Software Test Automation Engineer
-- 💞️ I’m looking to collaborate on Testers
+- 👀 I’m interested in Learning and experiencing new things
+- 🌱 I’m an experienced Data Analyst. 
+- 💞️ I’m looking to collaborate with Startups
 - 📫 Reach me on [linkedin](https://www.linkedin.com/in/manujaya-perera/) 
 
 <!---
